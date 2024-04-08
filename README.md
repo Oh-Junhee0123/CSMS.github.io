@@ -4,11 +4,11 @@
 
 <b>[This page](https://oh-junhee0123.github.io/CSMS.github.io/) is for sharing content about CSMS.</b>
 
-## CS Requirement Finder
+# CS Requirement Finder
 
 <i><b>This project was used to write [Oh Junhee's](https://github.com/Oh-Junhee0123) thesis.([1](https://lib.dankook.ac.kr/dcollection/public_resource/pdf/000000199819_20240402190454.pdf), [2](http://journal.kits.or.kr/journal/article.php?code=88240&vol=22&no=6&start_page=299&end_page=312))</b></i>
 
-### LICENSE
+# LICENSE
 
 <b>&lt;[Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)&gt;</b>
 
